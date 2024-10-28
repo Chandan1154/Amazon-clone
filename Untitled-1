@@ -1,0 +1,54 @@
+what is javeScript?
+A technology that we use to create website
+giving instruction 
+
+
+website like : amazon ect..
+
+3. technology
+ html 
+ css
+ javeScript
+
+ javeScript make it intaeractive
+
+
+ programming language 
+ java , phy
+
+document.body.innerHTML ='HELLO'
+js use for modify the wibsite
+
+syntax
+--------
+We need to follow rules 
+----------------------------
+number and math 
+
+oparator 
+- + / *
+order of operations
+* / are done first 
++ - are done after 
+* / have the same priority 
+
+we can user(...)
+bodmos
+ () => highest priority 
+ * / 
+ + - 
+  
+--------------
+String
+===========
+
+html
+-  -
+nested tags
+html attribute => it'll give info when you hover 
+ex: <button title ='d'> hello </button>
+
+class attribute .=> class = " trst"
+
+
+
